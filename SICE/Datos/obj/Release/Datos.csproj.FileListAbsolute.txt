@@ -1,0 +1,24 @@
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\bin\Release\Datos.dll.config
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\bin\Release\Datos.dll
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\bin\Release\Datos.pdb
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\bin\Release\Modelo.dll
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\bin\Release\MySql.Data.dll
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\bin\Release\Modelo.pdb
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\obj\Release\Datos.Properties.Resources.resources
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\obj\Release\Datos.csproj.GenerateResource.Cache
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\obj\Release\Datos.dll
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Datos\obj\Release\Datos.pdb
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\bin\Release\Datos.dll.config
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\bin\Release\Datos.dll
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\bin\Release\Datos.pdb
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\bin\Release\Modelo.dll
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\bin\Release\MySql.Data.dll
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\bin\Release\Modelo.pdb
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\obj\Release\Datos.Properties.Resources.resources
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\obj\Release\Datos.csproj.GenerateResource.Cache
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\obj\Release\Datos.dll
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Datos\obj\Release\Datos.pdb

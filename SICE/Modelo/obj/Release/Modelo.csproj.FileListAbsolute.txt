@@ -1,0 +1,11 @@
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Modelo\bin\Release\Modelo.dll
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Modelo\bin\Release\Modelo.pdb
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Modelo\obj\Release\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Modelo\obj\Release\Modelo.dll
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Modelo\obj\Release\Modelo.pdb
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\bin\Release\Modelo.dll
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\bin\Release\Modelo.pdb
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\obj\Release\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\obj\Release\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\obj\Release\Modelo.dll
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\obj\Release\Modelo.pdb

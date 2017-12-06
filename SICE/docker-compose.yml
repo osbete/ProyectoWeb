@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  nwind:
+    image: nwind
+    build:
+      context: .
+      dockerfile: Nwind\Dockerfile

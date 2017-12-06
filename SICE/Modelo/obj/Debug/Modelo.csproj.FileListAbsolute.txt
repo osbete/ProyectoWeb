@@ -1,0 +1,21 @@
+C:\Users\Admin\CLASES\CLASES 2017\01 ENE-JUN\TAP\Ejercicios\Northwind\Modelo\bin\Debug\Modelo.dll
+C:\Users\Admin\CLASES\CLASES 2017\01 ENE-JUN\TAP\Ejercicios\Northwind\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Admin\CLASES\CLASES 2017\01 ENE-JUN\TAP\Ejercicios\Northwind\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\CLASES\CLASES 2017\01 ENE-JUN\TAP\Ejercicios\Northwind\Modelo\obj\Debug\Modelo.dll
+C:\Users\Admin\CLASES\CLASES 2017\01 ENE-JUN\TAP\Ejercicios\Northwind\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Admin\CLASES\OneDrive\CLASES 2017\01 ENE-JUN\TAP\Ejercicios\Northwind\Modelo\bin\Debug\Modelo.dll
+C:\Users\Admin\CLASES\OneDrive\CLASES 2017\01 ENE-JUN\TAP\Ejercicios\Northwind\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Admin\CLASES\OneDrive\CLASES 2017\01 ENE-JUN\TAP\Ejercicios\Northwind\Modelo\obj\Debug\Modelo.dll
+C:\Users\Admin\CLASES\OneDrive\CLASES 2017\01 ENE-JUN\TAP\Ejercicios\Northwind\Modelo\obj\Debug\Modelo.pdb
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Modelo\bin\Debug\Modelo.dll
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Modelo\bin\Debug\Modelo.pdb
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Modelo\obj\Debug\Modelo.dll
+C:\Users\quiqu\Documents\SEMESTRE_7\APP-WEB\Northwind\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\bin\Debug\Modelo.dll
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\obj\Debug\Modelo.dll
+C:\Users\Core i3\Documents\Visual Studio 2017\Projects\Northwind\Modelo\obj\Debug\Modelo.pdb
